@@ -23,21 +23,27 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 **Programming Languages:**
+
 [![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,c,cpp)](https://skillicons.dev)
 
 **Frontend:**
+
 [![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
 **Backend & Frameworks:**
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,django,flask)](https://skillicons.dev)
 
 **Databases:**
+
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 **Cloud & DevOps:**
+
 [![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux)](https://skillicons.dev)
 
 **Tools:**
+
 [![Tools](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ###
