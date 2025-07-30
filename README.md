@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA5aHZrdzdoZmM5Z3l4aGkzcTJsMHdob2MycnZkdHEyeTFjdWc3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NUBp5KcV0PJBe/giphy.gif"  />
 
 ### 🤝 Connect with me:
 <div align="left">
